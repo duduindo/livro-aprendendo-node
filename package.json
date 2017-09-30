@@ -1,0 +1,15 @@
+{
+  "name": "livro-aprendendo-node",
+  "version": "0.0.1",
+  "description": "Códigos do livro Aprendendo Node, Shelley Powers, O'Reilly, Novatec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "c++"
+  ],
+  "author": "O'Reilly e Novatec",
+  "license": "ISC"
+}
