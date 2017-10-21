@@ -1,0 +1,28 @@
+{
+  "name": "mylibrary",
+  "description": "My package.json is example",
+  "main": "./lib/mylibrary.js",
+  "module": "./es/mylibrary.js",
+  "jsnext:main": "./es/mylibrary.js",
+  "version": "0.0.1",
+  "keywords": "json, anything for search",
+  "maintainers": "Fulano www.fulano.com fulano@mail.com, Sicrano www.sicrano.com sicrano@mail.com",
+  "contributors": "ex-Fulano www.ex-fulano.com ex-fulano@mail.com, ex-Sicrano www.ex-sicrano.com ex-sicrano@mail.com",
+  "bugs": {
+    "url": "github.com/issues/mylibrary-bugs",
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/user/mylibrary-here",
+  },
+  "homepage": "https://mylibrary.com",
+  "dependencies": {
+    "libraryA": "0.0.1",
+    "libraryB": "0.0.2",
+  },
+  "devDependencies": {
+    "libraryDevA": "0.0.1",
+    "libraryDevB": "0.0.2",
+  }
+}
